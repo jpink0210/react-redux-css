@@ -1,0 +1,6 @@
+export const ADD_ITEM = 'ADD_ITEM'
+export const FETCH_LOAD_ITEMS = 'FETCH_LOAD_ITEMS'
+export const INIT_ITEMS = 'INIT_ITEMS'
+export const FETCH_LOAD_PLAYERS = 'FETCH_LOAD_PLAYERS'
+export const INIT_PLAYERS = 'INIT_PLAYERS'
+export const FETCH_LOAD_NEW_ITEMS = 'FETCH_LOAD_NEW_ITEMS'
